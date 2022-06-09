@@ -1,0 +1,37 @@
+.header {
+  width: 100vw;
+  height: 48px;
+  left: 0px;
+  top: 0px;
+  background: #11B980;
+}
+.box-header{
+  height: 85px;  
+  background: #E2E2E2;
+  border-radius: 6px;
+}
+.button{
+  background: #549DF2;
+  border-radius: 100px;
+  padding: 5px 30px;
+  color:#fff;
+}
+.movie-item{
+  background: #F1F1F1;
+  border: 1px solid #C4C4C4;
+  border-radius: 6px;
+  padding:3px;
+}
+.movie-poster-home{
+  width: 40%;
+  border-radius: 6px 0px 0px 6px;
+}
+.pipe{
+  width: 50px;
+  height:0px;
+  border: 1px solid #6A6A6A;
+  transform: rotate(90deg);
+}
+.clickable{
+  cursor: pointer;
+}
